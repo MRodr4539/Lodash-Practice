@@ -18,7 +18,7 @@
   "homepage": "https://github.com/MRodr4539/Lodash-Practice#readme",
   "dependencies": {
     "assert": "^2.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "mocha": "^6.1.4"
   }
 }
